@@ -1,1 +1,1 @@
-# ML-Practice-P1
+# Using this repository to practice and learn various Machine Learning models.
